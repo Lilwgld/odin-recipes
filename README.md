@@ -10,6 +10,6 @@ This project is based on building a simple webpage of cooking recipes using HTML
 
 ## References
 
-- [Mug Cake's recipe](www.tudogostoso.com.br)
-- [Brigadeiro's recipe](www.tudogostoso.com.br)
-- [Mousse's recipe](www.anamariabraga.globo.com)
+- [Mug Cake's recipe](https://www.tudogostoso.com.br)
+- [Brigadeiro's recipe](https://www.tudogostoso.com.br)
+- [Mousse's recipe](https://www.anamariabraga.globo.com)
